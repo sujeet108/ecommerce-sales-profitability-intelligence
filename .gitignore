@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+
+# Generated, can be rebuilt with: python src/run_pipeline.py --regenerate
+data/processed/ecommerce.db
+data/processed/star/
+
+# If you switch to a real dataset with unclear licensing, ignore it too:
+# data/raw/*.csv
+
+# Power BI cache / backups
+*.pbix.bak
+.~*
