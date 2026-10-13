@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "note": "Answer key of planted problems. Used only to test the cleaning code.",
+  "price_outliers_x40": 6,
+  "quantity_zero_with_positive_sales": 8,
+  "quantity_negative_with_positive_sales": 5,
+  "sales_zero_with_positive_quantity": 6,
+  "discount_gt_1_percent_entry_error": 4,
+  "ship_date_before_order_date": 14,
+  "postal_code_leading_zero_lost": 1801,
+  "dates_in_dd-Mon-yyyy_format_rows": 261,
+  "missing_postal_code": 40,
+  "missing_customer_name": 30,
+  "category_typo_Furnitures": 12,
+  "country_alias": 25,
+  "case_or_whitespace_noise_cells": 650,
+  "exact_duplicate_rows": 45,
+  "valid_return_rows_planted": 10,
+  "raw_rows_written": 8747
+}

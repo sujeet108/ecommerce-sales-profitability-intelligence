@@ -1,0 +1,20 @@
+product_id,product_name,sub_category,revenue,profit,margin_pct,avg_discount_pct
+FUR-TA-10040,Stark Table H140,Tables,97820.02,-14270.98,-14.59,26.4
+TEC-MA-10160,Tailspin Machine F260,Machines,84061.64,-12523.21,-14.9,21.9
+FUR-TA-10034,Acme Table B134,Tables,69880.17,-12288.57,-17.59,26.9
+FUR-TA-10036,Northwind Table D136,Tables,41046.59,-9655.6,-23.52,24.7
+FUR-BO-10001,Hooli Bookcase A101,Bookcases,63984.59,-8747.36,-13.67,27.8
+FUR-BO-10004,Contoso Bookcase D104,Bookcases,98859.58,-5999.28,-6.07,24.6
+FUR-BO-10003,Initech Bookcase C103,Bookcases,68555.11,-4549.28,-6.64,26.5
+FUR-TA-10035,Hooli Table C135,Tables,34125.62,-3882.38,-11.38,21.4
+TEC-MA-10158,Fabrikam Machine D258,Machines,23133.66,-3265.79,-14.12,25.4
+FUR-BO-10005,Globex Bookcase E105,Bookcases,14576.71,-2812.59,-19.3,22.4
+FUR-TA-10038,Initech Table F138,Tables,54281.57,-2681.13,-4.94,26.0
+TEC-MA-10156,Northwind Machine B256,Machines,7328.69,-1968.67,-26.86,28.0
+FUR-TA-10039,Contoso Table G139,Tables,15818.97,-1608.07,-10.17,22.6
+FUR-BO-10008,Stark Bookcase H108,Bookcases,12788.85,-1444.72,-11.3,19.3
+FUR-TA-10033,Globex Table A133,Tables,4484.82,-1223.21,-27.27,26.1
+TEC-MA-10159,Vandelay Machine E259,Machines,9602.08,-895.12,-9.32,24.5
+FUR-TA-10037,Contoso Table E137,Tables,5938.66,-812.7,-13.68,26.7
+FUR-BO-10007,Northwind Bookcase G107,Bookcases,8809.67,-346.61,-3.93,20.8
+TEC-MA-10157,Fabrikam Machine C257,Machines,17596.72,-331.28,-1.88,24.4

@@ -1,0 +1,11 @@
+product_id,product_name,sub_category,revenue,profit,margin_pct
+TEC-PH-10169,Hooli Phone G269,Phones,305093.69,85533.58,28.04
+TEC-CO-10152,Stark Copier D252,Copiers,256036.82,118559.57,46.31
+TEC-PH-10167,Vandelay Phone E267,Phones,151505.86,24891.69,16.43
+TEC-PH-10173,Stark Phone K273,Phones,141159.54,25564.92,18.11
+TEC-PH-10174,Globex Phone L274,Phones,135864.31,29557.41,21.76
+TEC-MA-10155,Stark Machine A255,Machines,110332.17,8486.37,7.69
+FUR-BO-10004,Contoso Bookcase D104,Bookcases,98859.58,-5999.28,-6.07
+TEC-MA-10161,Tailspin Machine G261,Machines,98468.91,9283.2,9.43
+FUR-TA-10040,Stark Table H140,Tables,97820.02,-14270.98,-14.59
+FUR-CH-10014,Acme Chair F114,Chairs,90086.09,16122.89,17.9

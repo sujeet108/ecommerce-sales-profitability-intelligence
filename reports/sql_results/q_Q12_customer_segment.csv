@@ -1,0 +1,4 @@
+segment,customers,orders,revenue,profit,margin_pct,avg_order_value,revenue_share_pct
+Consumer,403,2106,1987599.01,359663.27,18.1,943.78,53.17
+Corporate,221,1099,1113046.14,226676.26,20.37,1012.78,29.77
+Home Office,130,690,637888.0,114443.6,17.94,924.48,17.06

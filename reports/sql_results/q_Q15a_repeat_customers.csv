@@ -1,0 +1,4 @@
+customer_type,customers,orders,revenue,revenue_share_pct
+1. One-time,132,132,110358.35,2.95
+2. 2-4 orders,289,865,846611.04,22.65
+3. 5+ orders,333,2898,2781563.76,74.4

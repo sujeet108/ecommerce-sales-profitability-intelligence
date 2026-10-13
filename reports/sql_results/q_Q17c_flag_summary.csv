@@ -1,0 +1,6 @@
+flag,lines
+Valid returns (negative qty/sales),10
+Price outliers flagged by cleaning step,6
+Invalid ship date blanked,14
+"Loss-making lines (profit < 0, not a return)",1138
+Lines sold at discount > 50%,419

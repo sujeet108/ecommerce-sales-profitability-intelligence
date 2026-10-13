@@ -1,0 +1,7 @@
+row_id,order_id,product_name,sales,quantity,discount,unit_price_this_line,avg_unit_price_other_lines,ratio
+6108,US-2024-102733,Acme Accessory L246,684.0,1,0.0,684.0,16.46,41.6
+108,US-2022-100050,Vandelay Art Set H158,374.8,2,0.0,187.4,4.62,40.6
+3489,US-2023-101559,Vandelay Paper Ream C203,1935.6,2,0.0,967.8,23.85,40.6
+2306,US-2023-101040,Stark Furnishing E123,8007.2,3,0.0,2669.07,66.86,39.9
+537,US-2022-100229,Vandelay Paper Ream H208,1120.4,1,0.15,1318.12,33.17,39.7
+1579,US-2022-100715,Stark Table H140,11720.4,2,0.15,6894.35,176.81,39.0

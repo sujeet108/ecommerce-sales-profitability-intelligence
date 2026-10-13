@@ -1,0 +1,5 @@
+key_checked,violations
+fact_sales.row_id,0
+dim_customer.customer_id,0
+dim_product.product_id,0
+dim_date.full_date,0

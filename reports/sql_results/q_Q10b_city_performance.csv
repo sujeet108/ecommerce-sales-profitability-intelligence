@@ -1,0 +1,28 @@
+city,state,region,orders,revenue,profit,margin_pct
+Seattle,Washington,West,439,431529.56,99854.57,23.14
+Charlotte,North Carolina,South,254,294779.74,71909.07,24.39
+Boston,Massachusetts,East,221,272252.92,55159.69,20.26
+Miami,Florida,South,256,256411.32,48149.21,18.78
+Hartford,Connecticut,East,302,244408.36,48064.16,19.67
+Providence,Rhode Island,East,178,196130.73,36311.24,18.51
+San Francisco,California,West,218,166772.23,19598.68,11.75
+Louisville,Kentucky,South,160,155865.59,20314.35,13.03
+Phoenix,Arizona,West,131,151939.59,28000.41,18.43
+Chicago,Illinois,Central,184,139190.59,9622.58,6.91
+Dallas,Texas,Central,157,128771.81,17019.18,13.22
+Milwaukee,Wisconsin,Central,156,120557.67,16370.14,13.58
+Portland,Oregon,West,107,119850.8,32078.53,26.77
+San Diego,California,West,123,119355.75,22050.91,18.47
+Minneapolis,Minnesota,Central,157,117750.34,13075.93,11.1
+Atlanta,Georgia,South,115,110054.4,19590.38,17.8
+Nashville,Tennessee,South,59,104403.23,34214.7,32.77
+Newark,New Jersey,East,106,100653.53,22707.33,22.56
+Houston,Texas,Central,102,94092.14,17937.39,19.06
+New York City,New York,East,104,86089.72,20420.6,23.72
+Jacksonville,Florida,South,92,81613.56,16994.01,20.82
+Columbus,Ohio,Central,85,73987.5,6117.79,8.27
+Detroit,Michigan,Central,66,51972.64,4072.69,7.84
+Los Angeles,California,West,31,39529.2,9466.28,23.95
+Pittsburgh,Pennsylvania,East,38,31739.9,3098.97,9.76
+Philadelphia,Pennsylvania,East,31,26502.0,3643.53,13.75
+Denver,Colorado,West,23,22328.33,4940.81,22.13

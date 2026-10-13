@@ -1,0 +1,13 @@
+category,discount_band,lines,revenue,profit,margin_pct
+Furniture,0. No discount,1081,609630.16,154017.97,25.26
+Furniture,1. 1-20%,477,359228.49,33708.18,9.38
+Furniture,2. 21-40%,208,127762.66,-31652.01,-24.77
+Furniture,3. Over 40%,184,75555.52,-94014.83,-124.43
+Office Supplies,0. No discount,3038,410884.54,153414.62,37.34
+Office Supplies,1. 1-20%,1100,121447.62,27102.94,22.32
+Office Supplies,2. 21-40%,462,34800.38,391.92,1.13
+Office Supplies,3. Over 40%,401,13120.76,-7790.67,-59.38
+Technology,0. No discount,1136,1387375.54,465921.84,33.58
+Technology,1. 1-20%,408,448771.17,62048.49,13.83
+Technology,2. 21-40%,101,96843.88,-5281.47,-5.45
+Technology,3. Over 40%,73,53326.39,-57045.75,-106.97

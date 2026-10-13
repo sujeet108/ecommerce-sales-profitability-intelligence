@@ -1,0 +1,6 @@
+rule,violations
+quantity <= 0 and not a return,0
+sales <= 0 and not a return,0
+discount outside 0-1,0
+negative ship_days,0
+return row with positive qty or sales,0

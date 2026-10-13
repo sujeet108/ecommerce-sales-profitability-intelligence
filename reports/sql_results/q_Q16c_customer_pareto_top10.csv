@@ -1,0 +1,11 @@
+revenue_rank,customer_id,customer_name,revenue,share_pct,cumulative_share_pct
+1,JL-10567,Chloe Brown,55669.99,1.49,1.49
+2,EC-10134,Harper Scott,40486.25,1.08,2.57
+3,JJ-10433,Hazel Miller,36770.61,0.98,3.56
+4,WP-10141,Aaron Roberts,33298.75,0.89,4.45
+5,JJ-10103,Zoe Perez,31337.69,0.84,5.28
+6,SA-10306,Liam Mitchell,30886.26,0.83,6.11
+7,JL-10747,Mason Phillips,29960.97,0.8,6.91
+8,MD-10845,Nora Miller,27616.65,0.74,7.65
+9,IR-10715,Layla Green,26654.86,0.71,8.36
+10,LA-10457,Zoe Walker,26138.17,0.7,9.06
